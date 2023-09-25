@@ -1,6 +1,9 @@
 # compiled output
 /dist
 /node_modules
+postgres/
+static/products
+static/uploads
 
 # Logs
 logs
@@ -22,6 +25,7 @@ lerna-debug.log*
 /.idea
 .project
 .classpath
+.env
 .c9/
 *.launch
 .settings/
